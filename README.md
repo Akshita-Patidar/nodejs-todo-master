@@ -10,8 +10,6 @@
 <li> Body-parser - This extracts the entire body portion of an incoming request stream and exposes it on req.body </li>
 </ul>
 
-![png](https://github.com/missating/nodejs-todo/blob/master/todo.png?raw=true 'web todo')
-
 <br>
 
 <p> How to run the app locally: </p>
